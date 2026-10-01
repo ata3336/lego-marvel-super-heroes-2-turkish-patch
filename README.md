@@ -1,11 +1,11 @@
 # LEGO Marvel Super Heroes 2 - Türkçe Yama (Fan-Made)
 
-LEGO Marvel Super Heroes 2 oyunu için hazırlanmış Türkçe yerelleştirme yamasıdır. Bu yama projesi **%80 makine çevirisi, %15 Gemini AI desteği ve %5 el ile düzenleme** (manuel kontrol) içeren karma bir modelle hazırlanmıştır.
+LEGO Marvel Super Heroes 2 oyunu için hazırlanmış Türkçe yerelleştirme yamasıdır. Bu yama projesi **%70 makine çevirisi, %15 Gemini AI desteği ve %15 el ile düzenleme** (manuel kontrol) içeren karma bir modelle hazırlanmıştır.
 
 ## ⚠️ Yasal Uyarı & Sorumluluk Reddi
 Bu Türkçe yama, tamamen hayranlar tarafından yapılmış **ücretsiz** bir yerelleştirme çalışmasıdır. 
 
-* **Bağlantı Reddi:** Bu projenin **Marvel, LEGO, TT Games veya Warner Bros. Games** ile hiçbir resmi veya gayriresmi bağı, ortaklığı ya da yetkilendirmesi **yoktur**. Tüm telif hakları ve ticari markalar oyunun orijinal sahiplerine aittir.
+* **Bağlantı Reddi:** Bu projenin **Marvel, LEGO, TT Games veya Warner Bros. Games** ile hiçbir resmi bağı, ortaklığı ya da yetkilendirmesi **yoktur**. Tüm telif hakları ve ticari markalar oyunun orijinal sahiplerine aittir.
 * **Hata Payı:** Yama büyük oranda yapay zeka ve makine çevirisine dayandığı için **çeviride mantık hataları, imla hataları veya eksiklikler bulunabilir.** 
 * **Sorumluluk Reddi:** Yamayı kullanmak tamamen kullanıcının kendi sorumluluğundadır. Kurulumdan, yamadaki hatalardan veya oyun dosyalarının değiştirilmesinden doğabilecek olası sorunlardan (oyun çökmesi, kayıt dosyası/save kaybı, performans düşüşü vb.) **geliştirici hiçbir sorumluluk kabul etmez.**
 * **Ticari Kullanım Yasağı:** Bu yama **hiçbir şekilde ticari amaçla kullanılamaz, satılamaz veya para karşılığı dağıtılamaz.**
